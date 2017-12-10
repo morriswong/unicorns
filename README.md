@@ -1,5 +1,4 @@
-# unicorns
-## The fantastic unicorns and where to find them
+# The fantastic unicorns and where to find them
 
 This is the repository in exploring the data set of various unicorns from:
 * cbinsights: https://www.cbinsights.com/research-unicorn-companies
