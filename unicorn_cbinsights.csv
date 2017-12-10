@@ -1,0 +1,293 @@
+,Company,Country,Date Joined,Industry,Select Investors,Valuation ($B)
+0,Uber,United States,8/23/2013,On-Demand,"Lowercase Capital,
+	  Benchmark Capital, Google Ventures",$68
+1,"Didi Chuxing
+	  ",China,12/31/2014,On-Demand,"Matrix Partners, Tiger
+	  Global Management, Softbank Corp.,",$50
+2,Xiaomi,China,12/21/2011,Hardware,"Digital Sky Technologies,
+	  QiMing Venture Partners, Qualcomm Ventures",$46
+3,China Internet Plus Holding (Meituan Dianping),China,12/22/2015,eCommerce/Marketplace,"DST Global, Trustbridge Partners, Capital Today",$30
+4,Airbnb,United States,7/26/2011,eCommerce/Marketplace,"General Catalyst Partners,
+	  Andreessen Horowitz, ENIAC Ventures",$29.3
+5,SpaceX,United States,12/1/2012,Other Transportation,"Founders Fund, Draper
+	  Fisher Jurvetson, Rothenberg Ventures",$21.5
+6,"Palantir
+	  Technologies",United States,5/5/2011,Big Data,"RRE Ventures, Founders
+	  Fund, In-Q-Tel",$20
+7,WeWork,United States,2/3/2014,Facilities,"T. Rowe Price, Benchmark
+	  Capital, SoftBank Group",$20
+8,Lu.com,China,12/26/2014,Fintech,"Ping An Insurance CDH Investments, Bank of China",$18.5
+9,Pinterest,United States,5/19/2012,Social,"Andreessen Horowitz, Bessemer Venture Partners, Firstmark Capital",$12.3
+10,Flipkart,India,8/6/2012,eCommerce/Marketplace,"Accel Partners, SoftBank Group, Iconiq Capital",$11.6
+11,Lyft,United States,3/12/2015,On-Demand,"Founders Fund, Mayfield
+	  Fund, capitalG",$11.5
+12,Toutiao,China,4/7/2017,Digital Media,"Sequoia Capital China, SIG Asia Investments, Sina Weibo",$11
+13,Dropbox,United States,10/5/2011,Internet Software & Services,"Accel Partners, Greylock
+	  Partners, Index Ventures",$10
+14,Infor,United States,11/16/2016,Internet Software & Services,"Blackstone Group, Koch Industries",$10
+15,"DJI
+	  Innovations",China,5/6/2015,Hardware,"Accel Partners, Sequoia
+	  Capital",$10
+16,Stripe,United States,1/23/2014,Fintech,"Khosla Ventures, Lowercase
+	  Capital, capitalG",$9.2
+17,Spotify,Sweden,6/17/2011,Internet Software & Services,"Horizons Ventures, Norwest
+	  Venture Partners, Technology Crossover Ventures",$8.53
+18,Snapdeal,India,5/21/2014,eCommerce/Marketplace,"SoftBankGroup,Blackrock, Alibaba Group",$7
+19,Global Switch,United Kingdom,12/22/2016,Computer Hardware & Services,"Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group",$6.02
+20,GrabTaxi,Singapore,12/4/2014,On-Demand,"GGV Capital, Vertex Venture
+	  Holdings, Softbank Group",$6
+21,Lianjia,China,4/8/2016,eCommerce/Marketplace,"Tencent, Baidu, Huasheng Capital",$5.8
+22,"One97
+	  Communications (operates Paytm)",India,5/12/2015,Fintech,"Intel Capital, Sapphire
+	  Ventures, Alibaba Group",$5.7
+23,Vice Media,United States,8/17/2013,Media,"Technology Crossover Ventures, A&E; Television Networks",$5.7
+24,"Intarcia
+	  Therapeutics",United States,4/1/2014,Healthcare,"New Enterprise Associates,
+	  New Leaf Venture Partners, Charter Venture Capital",$5.5
+25,Ele.me,China,8/28/2015,On-Demand,"Sequoia Capital China, Alibaba Group, Horizons Ventures",$5.5
+26,"Slack
+	  Technologies",United States,10/31/2014,Internet Software & Services,"Google Ventures, Institutional Venture Partners, Index Ventures",$5.1
+27,Outcome Health,United States,5/31/2017,Healthcare,"Goldman Sachs, capitalG, Pritzker Group Venture Capital",$5
+28,United Imaging Healthcare,China,9/14/2017,Healthcare,"China Life Insurance, China Development Bank Capital, CITIC Securities International",$5
+29,Coupang,South Korea,5/28/2014,eCommerce/Marketplace,"Sequoia Capital, Founder
+	  Collective, Wellington Management",$5
+30,NIO,China,3/15/2017,AutoTech,"Baidu Venture Capital, Capital Today, GIC",$5
+31,"Magic
+	  Leap",United States,10/21/2014,VR/AR,"Obvious Ventures, Qualcomm
+	  Ventures, Andreessen Horowitz",$4.98
+32,Meizu Technology,China,7/23/2014,Hardware,"Telling Telecommunication Holding Co., Alibaba Group",$4.58
+33,Fanatics,United States,6/6/2012,eCommerce/Marketplace,"SoftBank Group, Andreessen Horowitz, Temasek Holdings",$4.5
+34,"Yello
+	  Mobile",South Korea,11/11/2014,Mobile Software & Services,Formation 8,$4
+35,Houzz,United States,9/30/2014,eCommerce/Marketplace,"New Enterprise Associates,
+	  Sequoia Capital, Comcast Ventures",$4
+36,Social Finance,United States,2/3/2015,Fintech,"Baseline Ventures, DCM Ventures, Institutional Venture Partners",$4
+37,Tanium,United States,3/31/2015,Cybersecurity,"Andreessen Horowitz,
+	  Nor-Cal Invest, TPG Growth",$3.75
+38,Olacabs,India,10/27/2014,On-demand,"Accel Partners, SoftBank Group, Sequoia Capital",$3.65
+39,Otto Bock HealthCare,Germany,6/24/2017,Healthcare,EQT Partners,$3.5
+40,"Credit
+	  Karma",United States,9/29/2014,Fintech,"Felicis Ventures, SV Angel,
+	  Founders Fund",$3.5
+41,Instacart,United States,12/30/2014,On-Demand,"Khosla Ventures, Kleiner
+	  Perkins Caufield & Byers, Collaborative Fund",$3.4
+42,The Hut Group,United Kingdom,08/13/2017,eCommerce ,"Kohlberg Kravis Roberts & Co., Old Mutual Global Investors, Artemis Investment Management",$3.25
+43,Kuaishou,China,1/1/2015,Social,"Morningside Venture Capital, Sequoia Capital, Baidu",$3
+44,Royole Corporation,China,11/4/2016,Hardware,"Warmsun Holding, IDG Capital Partners",$3
+45,Maoyan-Weiying,China,11/10/2017,eCommerce/Marketplace,"Tencent Holdings, Enlight Media Group",$3
+46,VANCL,China,12/14/2010,eCommerce/Marketplace,"Ceyuan Ventures, QiMing
+	  Venture Partners, Temasek Holdings",$3
+47,DocuSign,United States,3/4/2014,Internet Software & Services,"Accel Partners, Bessemer
+	  Venture Partners, Ignition Partners",$3
+48,Moderna,United States,12/19/2014,Healthcare,"Flagship Ventures, Invus
+	  Group, Wellington Management",$3
+49,Mobike,China,6/16/2017,On-Demand,"Tencent Holdings, Sequoia Capital China, TPG Capital",$3
+50,ContextLogic (dba. Wish),United States,5/18/2015,eCommerce/Marketplace,"Founders Fund, GGV Capital, Digital Sky Technologies",$3
+51,BGL Group,United Kingdom,11/24/2017,Fintech,CPP Investment Board,$3
+52,Ofo,China,3/1/2017,On Demand,"GSR Ventures, Matrix Partners China, Didi Chuxing",$3
+53,Auto1 Group,Germany,8/3/2015,eCommerce/Marketplace,"Digital Sky Technologies, Piton Capital, DN Capital",$2.8
+54,e-shang Redwood,China,7/26/2017,Real Estate,"SK Group, GF Investments, China Minsheng Banking Corp.",$2.8
+55,"Oscar
+	  Health Insurance Co.",United States,4/20/2015,Healthcare,"BoxGroup, Formation8,
+	  Khosla Ventures",$2.7
+56,"Bloom
+	  Energy",United States,3/6/2009,Greentech,"Kleiner Perkins Caufield
+	  & Byers, ATEL Ventures, DAG Ventures",$2.7
+57,Unity Technologies,United States,7/13/2016,Gaming,"Sequoia Capital, iGlobe Partners, DFJ Growth",$2.6
+58,Klarna,Sweden,12/12/2011,Fintech,"Institutional Venture
+	  Partners, Sequoia Capital, General Atlantic",$2.5
+59,VistaJet,Malta,8/23/2017,On-demand,Rhone Capital,$2.5
+60,Qualtrics,United States,9/24/2014,Big Data,"Accel Partners, Insight
+	  Venture Partners, Sequoia Capital",$2.5
+61,Mozido,United States,10/22/2014,Fin Tech,"Wellington Management, TomorrowVentures, Mastercard Worldwide",$2.39
+62,Adyen,Netherlands,12/16/2014,Fintech,"Felicis Ventures, Index
+	  Ventures, Temasek Holdings",$2.3
+63,Uptake,United States,10/27/2015,Big Data,"Revolution, New Enterprise Associates, Caterpillar",$2.3
+64,Compass,United States,8/31/2016,Real Estate,"Founders Fund, Thrive Capital, Wellington Management",$2.2
+65,ReNew Power Ventures,India,2/14/2017,Energy & Utilities,"Goldman Sachs, JERA, Asian Development Bank",$2
+66,Traveloka,Indonesia,7/28/2017,TravelTech,"Global Founders Capital, East Ventures, Expedia Inc.",$2
+67,Huimin,China,9/5/2016,On-Demand,"Zheshang Venture Capital, GP Capital, Western Capital Management",$2
+68,Zenefits,United States,5/6/2015,Fintech,"SV Angel, Institutional Venture Partners, Venrock",$2
+69,Greensky,United States,10/22/2015,Fintech,"DST Global, QED Investors, TPG Capital",$2
+70,Avant,United States,9/30/2015,Fintech,"RRE Ventures, Tiger Global, August Capital",$2
+71,Github,United States,7/30/2015,Internet Software & Services,"Sequoia Capital, Thrive Capital, SV Angel",$2
+72,Domo Technologies,United States,4/8/2015,Big Data,"Institutional Venture
+	  Partners, Benchmark Capital, Founders Fund",$2
+73,"Trendy
+	  Group International",China,2/13/2012,Clothing & Accessories,L Capital Partners,$2
+74,Weiying,China,11/17/2015,eCommerce/Marketplace,"Tencent, iDreamSky Technology, GGV Capital",$2
+75,Deliveroo,United Kingdom,9/25/2017,On-demand,"Accel Partners, General Catalyst, Index Ventures",$2
+76,Go-Jek,Indonesia,8/4/2016,On-Demand,"Formation Group, Sequoia Capital India, Warburg Pincus",$1.8
+77,Quora,United States,4/21/2017,Internet Software & Services,"Y Combinator, Matrix Partners, Benchmark",$1.8
+78,Zocdoc,United States,8/20/2015,Healthcare,"Founders Fund, Khosla Ventures, Goldman Sachs",$1.8
+79,Sprinklr,United States,3/31/2015,Internet Software & Services,"Azure Capital Partners,
+	  Battery Ventures, Intel Capital",$1.8
+80,reddit,United States,7/31/2017,Social,"Y Combinator, Sequoia Capital, Coatue Management",$1.8
+81,Apttus,United States,9/1/2015,Internet Software & Services,"Iconiq Capital, K1 Capital, Salesforce Ventures",$1.75
+82,Buzzfeed,United States,8/18/2015,Media,"SV Angel, RRE Ventures, New Enterprise Associates
+",$1.7
+83,CureVac,Germany,03/05/2015,Healthcare,"Northview Ventures, dievini Hopp BioTech Holding & Co.m Baillie Gifford & Co.",$1.65
+84,Afiniti,United States,4/14/2017,Internet Software & Services,GAM Holding,$1.6
+85,Infinidat,Israel,4/29/2015,Hardware,"TPG Growth, Goldman Sachs",$1.6
+86,BlaBlaCar,France,9/16/2015,On-Demand,"Accel Partners, Index Ventures, Insight Venture Partners",$1.6
+87,LaKala,China,6/23/2015,Fintech,"China Continent Property & Casualty Insurance, China Renaissance Capital Investment, China Taiping Life Insurance",$1.6
+88,Coinbase,United States,8/10/2017,Fintech,"Y Combinator, Union Square Ventures, DFJ Growth",$1.6
+89,TransferWise,United Kingdom,1/26/2015,Fintech,"IA Ventures, Index
+	  Ventures, SV Angel",$1.6
+90,Quanergy Systems,United States,8/24/2016,Auto Tech,"Delphi Automotive, Samsung Ventures, Motus Ventures",$1.59
+91,Promasidor Holdings,South Africa,11/8/2016,Food and Beverage,"IFC, Ajinomoto",$1.58
+92,Zoox,United States,5/27/2016,Auto Tech,"AID Partners, Draper Fisher Jurvetson",$1.55
+93,Oxford Nanopore Technologies,United Kingdom,7/21/2015,Healthcare,"Illumina, Invesco Perpetual, IP Group",$1.55
+94,DouyuTV,China,11/20/2017,Internet Software & Services,"CMB International Capital, Nanshan Capital, Tencent Holdings",$1.51
+95,Pindouduo,China,7/20/2016,eCommerce,"Tencent Holdings, Banyan Capital, Cathay Innovation",$1.5
+96,Vipkid,China,8/23/2017,Edtech,"Sequoia Capital China, Tencent Holdings, Sinovation Ventures",$1.5
+97,Insidesales.com,United States,4/28/2014,Big Data,"Microsoft Ventures, US
+	  Venture Partners, Kleiner Perkins Caufield & Byers",$1.5
+98,Mu Sigma,United States,2/7/2013,Big Data,"Sequoia Capital, General Atlantic",$1.5
+99,STX Entertainment,United States,8/10/2016,Entertainment,"Tencent, TPG Growth, Hony Capital",$1.5
+100,GuaHao,China,9/22/2015,Healthcare,"Tencent, Morningside Group",$1.5
+101,Farfetch,United Kingdom,3/4/2015,eCommerce/Marketplace,"Advent Venture Partners,
+	  Index Ventures, e.ventures",$1.5
+102,JetSmarter,United States,12/12/2016,TravelTech,"Jay-Z, Saudi Royal Family, Jet Edge",$1.5
+103,Tujia,China,6/17/2015,eCommerce/Marketplace,"GGV Capital, QiMing Venture Partnersl",$1.5
+104,ironSource,Israel,8/11/2014,"Mobile Software &
+	  Services","Access Industries, Clal
+	  Industries and Investments",$1.5
+105,23andMe,United States,7/3/2015,Healthcare,"Google Ventures, New Enterprise Associates, MPM Capital",$1.5
+106,SenseTime,China,7/11/2017,Computer Vision/ AI,"Star VC, IDG Capital, Infore Capital",$1.47
+107,Tuandaiwang,China,5/30/2017,Fintech,"Beihai Hongtai Investment, China Minsheng Investment, Yisheng Innovation",$1.46
+108,"Koudai
+	  Gouwu",China,10/23/2014,eCommerce/Marketplace,"New Enterprise Associates,
+	  Tiger Global management, Tencent",$1.4
+109,AvidXchange,United States,6/8/2017,Fintech,"Temasek Holdings, Charlotte Angel Partners, TPG Growth",$1.4
+110,Indigo Agriculture,United States,9/26/2017,Biotech,"Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co.",$1.4
+111,Hike,India,8/16/2016,Social,"Foxconn, Tiger Global management, Tencent",$1.4
+112,C3 IoT,United States,3/2/2017,IoT,"Makena Capital Management, TPG Growth, Breyer Capital",$1.4
+113,AppLovin,United States,1/1/2017,Adtech,"Orient Hontai Capital, Webb Investment Network",$1.4
+114,Anaplan,United States,1/14/2016,Internet Software & Services,"Shasta Ventures, Granite Ventures, DFJ Growth Fund",$1.4
+115,DraftKings,United States,7/26/2015,Internet Software & Services,"Accomplice, GGV Capital, Redpoint Ventures",$1.35
+116,Rubrik,United States,4/28/2017,Internet Software & Services,"Greylock Partners, Lightspeed Venture Partners, Khosla Ventures",$1.3
+117,Zeta Interactive,United States,7/15/2015,Internet Software & Services,"GSO Capital Partners, Franklin Square",$1.3
+118,Robinhood,United States,4/26/2017,Fintech,"Google Ventures, Andreessen Horowitz, DST Global",$1.3
+119,URWork,China,1/18/2017,Real Estate,"Ant Financial Services Group, Dahong Group, Sequoia Capital China",$1.3
+120,Peloton Interactive,United States,5/24/2017,Fitness,"True Ventures, Tiger Global Management, L Catterton",$1.3
+121,Docker,United States,4/14/2015,Internet Software & Services,"Greylock Partners,
+	  Lightspeed Venture Partners, Lowercase Capital",$1.3
+122,OakNorth Bank,United Kingdom,10/12/2017,Fintech,"Clermont Group, Coltrane Asset Management, Toscafund Asset Management",$1.2
+123,Thumbtack,United States,9/29/2015,eCommerce/Marketplace,"Tiger Global, Sequoia Capital, Google Capital",$1.2
+124,Ten-X,United States,3/5/2014,Internet Software & Services,"Stone Point Capital, Google Capital",$1.2
+125,Clover Health,United States,5/10/2017,Healthcare,"Google Ventures, Sequoia Capital, First Round Capital",$1.2
+126,Flatiron Health,United States,1/6/2016,Healthcare,"Roche Venture Fund, Google Ventures, Social Capital",$1.2
+127,Appnexus,United States,8/18/2014,Adtech,"Khosla Ventures, Technology
+	  Crossover Ventures, Tribeca Venture Partners",$1.2
+128,"Warby
+	  Parker",United States,4/30/2015,eCommerce/Marketplace,"BoxGroup, Felicis Ventures,
+	  First Round Capital",$1.2
+129,Human Longevity,United States,4/5/2016,Healthcare,"Celgene, GE Ventures, Draper Fisher Jurvetson",$1.2
+130,OfferUp,United States,9/8/2016,eCommerce/Marketplace,"Andreessen Horowitz, GGV Capital, T. Rowe Price",$1.2
+131,Careem Networks,United Arab Emirates,12/18/2016,On Demand,"STC Ventures, Al Tayyar Travel Group, Wamda Capital",$1.2
+132,Duo Security,United States,10/18/2017,Cybsersecurity,"Meritech Capital, Lead Edge Capital, Benchmark",$1.17
+133,Automattic,United States,5/27/2013,Internet Software & Services,"Insight Venture Partners,
+	  Lowercase Capital, Polaris Partners",$1.16
+134,NetEase Cloud Music,China,4/11/2017,Internet Software & Services," China International Capital Corporation, Hunan TV & Broadcast Intermediary, Shanghai Media Group",$1.16
+135,LIfeMiles,Colombia,7/13/2015,Business Products & Services,Advent International,$1.15
+136,BrewDog,United Kingdom,4/10/2017,Food & Beverages,"TSG Consumer Partners, Crowdcube",$1.15
+137,Global Fashion Group,Luxembourg,4/8/2015,eCommerce/Marketplace,"Access Industries, Rocket Internet, Tengelmann Ventures",$1.1
+138,Shopclues,India,1/12/2016,eCommerce/Marketplace,"Nexus Venture Partners, GIC Special Investments, Tiger Global Management",$1.1
+139,"Proteus
+	  Digital Health",United States,6/2/2014,Healthcare,"Novartis,
+	Essex Woodlands, The Carlyle Group",$1.1
+140,Actifio,United States,3/24/2014,Big Data,"Greylock Partners, North
+	  Bridge Venture Partners, Technology Crossover Ventures",$1.1
+141,TangoMe,United States,3/20/2014,Social,"Draper Fisher Jurtson,
+	  Qualcomm Ventures, Alibaba Group",$1.1
+142,Nextdoor,United States,3/4/2015,Social,"Benchmark Capital, DAG
+	  Ventures, Insight Venture Partners",$1.1
+143,OVH,France,7/3/2015,Big Data,"Kohlberg Kravis Roberts & Co.,TowerBrook Capital Partners",$1.1
+144,Radius Payments Solutions,United Kingdom,11/27/2017,Internet Software & Services,Inflexion Private Equity,$1.07
+145,Jiuxian,China,7/30/2015,eCommerce/Marketplace,"Sequoia Capital China, Rich Land Capital, Merrysunny Wealth",$1.05
+146,Africa Internet Group,Nigeria,2/8/2016,eCommerce/Marketplace,AXA,$1.04
+147,AppDirect,United States,10/7/2015,Internet Software & Services,"Mithril, iNovia Capital, Foundry Group",$1.04
+148,Kendra Scott Jewelry,United States,12/21/2016,Clothing & Accessories,"Berkshire Partners, Norwest Venture Partners",$1
+149,Avaloq Group,Switzerland,3/22/2017,Fintech,Warbug Pincus,$1.01
+150,Cambricon,China,8/18/2017,Chips & Semiconductors,"Alibaba Entrepreneurs Fund, CAS Investment Management Co., Lenovo Ventures Group",$1
+151,Katerra,United States,4/13/2017,Construction Tech,"Foxconn Technology Company, Khosla Ventures, Moore Capital Management",$1
+152,Yuanfudao,China,5/31/2017,Edtech,"Tencent Holdings, Warbug Pincus, IDG Capital",$1
+153,OpenDoor Labs,United States,11/30/2016,Real Estate,"Norwest Venture Partners, New Enterprise Associates, Khosla Ventures",$1
+154,Pluralsight,United States,12/13/2016,Internet Software & Services,"Iconiq Capital, Insight Venture Partners, Sorenson Capital",$1
+155,Liepin,China,6/28/2016,HR & Workforce Management,"China Mobile, Matrix Partners China, Warbug Pincus",$1
+156,Yixia,China,11/24/2015,Social,"Sequoia Capital China, Sina Weibo, Kleiner Perkins Caufield & Byers, Redpoint Ventures",$1
+157,Medallia,United States,7/21/2015,Internet Software & Services,Sequoia Capital,$1
+158,Shazam,United Kingdom,1/20/2015,Mobile Software & Services,"IDG Ventures, Kleiner
+	  Perkins Caufield & Byers, Buran Venture Capital",$1
+159,Apus Group,China,1/16/2015,Mobile Software & Services,"Redpoint Ventures, QiMing Venture Partners, Chengwei Capital",$1
+160,CloudFlare,United States,12/1/2012,Cybersecurity,"New Enterprise Associates,
+	  Pelion Venture Partners, Union Square Ventures",$1
+161,Procore Technologies,United States,12/8/2016,Construction Tech,"Bessemer Venture Partners, O'Connor Ventures, Iconiq Capital",$1
+162,Lookout,United States,8/13/2014,Cybersecurity,"Accel Partners, Greylock
+	  Partners, Lowercase Capital",$1
+163,Funding Circle,United Kingdom,4/23/2015,Fintech,"Accel Partners, Index
+	  Ventures, Ribbit Capital",$1
+164,Fanli,China,4/20/2015,eCommerce/Marketplace,"QiMing Venture Partners,
+	  Steam boat Ventures",$1
+165,"Zomato
+	  Media",India,4/10/2015,Social,"Sequoia Capital, VY Capital",$1
+166,JustFab,United States,8/29/2014,eCommerce/Marketplace,"Matrix Partners, Passport
+	  Capital, Rho Ventures",$1
+167,Mogujie,China,6/6/2014,Social,"IDG Capital Partners,
+	  QiMing Venture Partners, Banyan Capital",$1
+168,Desktop Metal,United States,7/17/2017,3D Printing,"Australian Future Fund, GE Ventures, Data Collective",$1
+169,Illumio,United States,4/14/2014,Cybersecurity,"Data Collective, Formation
+	  8, General Catalyst Partners",$1
+170,BeiBei,China,1/22/2015,eCommerce/Marketplace,"Banyan Capital, New Horizon
+	  Capital, IDG Capital Partners",$1
+171,Panshi,China,5/5/2015,Adtech,"WI Harper Group, Fang Fund Partners, NewMarging Ventures",$1
+172,InMobi,India,12/2/2014,Adtech,"Kleiner Perkins Caufield
+	  & Byers, Softbank Corp., Sherpalo Ventures",$1
+173,CrowdStrike,United States,5/17/2017,Cybersecurity,"Warbug Pincus, capitalG, Accel Partners",$1
+174,AVAST Software,Czech Republic,2/5/2014,Cybersecurity,"Summit Partners, CVC Capital Partners",$1
+175,MarkLogic,United States,5/12/2015,Big Data,"Sequoia Capital, Tenaya Capital, Northgate Capital",$1
+176,Fanduel,United States,7/14/2015,Internet Software & Services,"Pentech Ventures, Bullpen Capital, KKR",$1
+177,Zhaogang,China,6/29/2017,eCommerce/Marketplace,"K2 Ventures, Matrix Partners China, IDG Capital",$1
+178,Vox Media,United States,8/12/2015,Media,"Accel Partners, Comcast Ventures, General Atlantic",$1
+179,Kik Interactive,Canada,8/18/2015,Social,"Union Square Ventures, RRE Ventures, Spark Capital",$1
+180,Carbon3D,United States,8/20/2015,Hardware,"Google Ventures, Sequoia Capital, Wakefield Group",$1
+181,letgo,Netherlands,9/28/2017,eCommerce/Marketplace,"Accel Partners, FJ Labs, Insight Venture Partners",$1
+182,Kabbage,United States,10/14/2015,Fintech,"BlueRun Ventures, SV Angel, Mohr Davidow Ventures",$1
+183,iTutorGroup,China,11/18/2015,Ed Tech,"QiMing Venture Partners, Temasek Holdings, Silverlink Capital",$1
+184,Gusto,United States,12/18/2015,Fintech,"General Catalyst Partners, Google Ventures, Kleiner Perkins Caufield & Byers",$1
+185,Dt Dream,China,6/8/2017,Internet Software & Services,"Alibaba Group, China Everbright Investment Management, Yinxinggu Capital",$1
+186,Dada,China,12/31/2015,eCommerce,"Sequoia Capital China, DST, Greenwoods Asset Management",$1
+187,Cell C,South Africa,8/8/2017,Telecommunications,"Blue Label Telecoms, Net1 UEPS Technologies",$1
+188,MindMaze,Switzerland,2/17/2016,VR/AR,Hinduja Group,$1
+189,Mercari,Japan,3/2/2016,eCommerce/Marketplace,"East Ventures, Global Brain Corporation, ITOCHU Technology Ventures",$1
+190,Mia.com,China,9/8/2015,eCommerce/Marketplace,"Sequoia Capital China, ZhenFund, K2 Ventures",$1
+191,Xiaohongshu,China,3/31/2016,eCommerce/Marketplace,"GGV Capital, ZhenFund, Tencent",$1
+192,iCarbonX,China,4/12/2016,Healthcare,"Tencent, Vcanbio",$1
+193,Symphony Communication Services Holdings,United States,5/16/2017,Fintech,"BNP Paribas, Goldman Sachs, Google",$1
+194,Age of Learning,United States,5/3/2016,Edtech,Iconiq Capital,$1
+195,Glassdoor,United States,6/3/2016,Internet Software & Services,"T. Rowe Price, Battery Ventures, Tiger Global Management",$1
+196,Quikr,India,4/7/2015,eCommerce/Marketplace,"Brand Capital, Tiger Global Management, Kinnevik",$1
+197,SMS Assist,United States,6/13/2016,Internet Software & Services,"Goldman Sachs, Insights Venture Partners, Pritzker Group Venture Capital",$1
+198,benevolent.ai ,United Kingdom,6/2/2015,Healthcare,Woodford Investment Management,$1
+199,Mofang Gongyu,China,4/13/2016,Facilities,"Warburg Pincus, Aviation Industry Corporation of China",$1
+200,UBTECH Robotics,China,7/26/2016,Robotics,"CDH Investments, Goldstone Investments, Qiming Venture Partners",$1
+201,Adaptive Biotechnologies,United States,1/8/2015,Healthcare,"Illumina, Celgene, Casdin Capital",$1
+202,HuJiang,China,10/29/2015,Edtech,"China Minsheng Investment, Baidu, Wanxin Media",$1
+203,Guazi,China,3/12/2016,eCommerce/Marketplace,"Sequoia Capital China, GX Capital",$1
+204,Rubicon Global,United States,8/25/2017,Cleantech,"Goldman Sachs, Leonardo DiCaprio, Promecap ",$1
+205,Zhihu,China,1/12/2017,Internet Software & Services,"Tencent Holdings, Sinovation Ventures, Qiming Venture Partners ",$1
+206,51Xinyongka,China,9/21/2016,Fintech,"GGV Capital, JD.com, Meridian Capital China",$1
+207,YH Global,China,9/21/2017,Supplychain/ logistics,"Co-Energy Finance, Grandland",$1
+208,Eventbrite,United States,3/13/2014,eCommerce/Marketplace,"Sequoia Capital, Tiger Global Management, SV Angel",$1
+209,Cylance,United States,6/8/2016,Cybersecurity,"Khosla Ventures, Fairhaven Capital, In-Q-Tel",$1
+210,Zscaler,United States,8/3/2015,Cybersecurity,"capitalG, EMC Ventures, Lightspeed Venture Partners",$1
+211,Rocket Lab,United States,3/21/2017,SpaceTech,"Lockheed Martin, Khosla Ventures, Bessemer Venture Partners",$1
+212,Improbable,United Kingdom,5/12/2017,AR/VR,"Andreessen Horowitz, SoftBank Group, Temasek Holdings",$1
+213,Zoom Communications,United States,1/17/2017,Internet Software & Services,"Sequoia Capital, Qualcomm Ventures, Emergence Capital Partners",$1
+214,Wheels Up Partners,United States,10/9/2017,TravelTech,"New Enterprise Associates, Kohlberg Kravis Roberts & Co., Corigin Ventures",$1
+215,Tongdun Technology,China,10/10/2017,Cybersecurity,"Advantech Capital, Temasek Holdings Ltd., Tiantu Capital Co.",$1
+216,Supreme,United States,10/9/2017,Clothing & Accessories,The Carlyle Group,$1
+217,Particle,United States,10/17/2017,Digital Media,Phoenix New Media,$1
+218,Face++ (Megvii),China,10/31/2017,AI / Facial Recognition,"Ant Financial Services Group, Russia-China Investment Fund, Foxconn Technology Company",$1
+219, XiaoZhu ,China,11/1/2017,eCommerce/Marketplace,"Morningside Ventures, Capital Today, JOY Capital",$1
