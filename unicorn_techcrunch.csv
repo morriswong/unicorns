@@ -1,0 +1,268 @@
+,Company,Country,Known Lead Investors,Market,Post Money Value,Total Equity Funding,Valuation Change
+0,Uber,USA,"['Garrett Camp (Seed)', 'Travis Kalanick (Seed)', 'First Round Capital (Angel)', 'Benchmark (Series A)', 'Menlo Ventures (Series B)', 'GV (Series C)', 'Fidelity Investments (Series D)', 'Glade Brook Capital Partners (Series E)', 'Glade Brook Capital Partners (Series E)', 'Tata Capital (Private Equity)', 'Letterone Holdings SA (Private Equity)', ""Saudi Arabia's Public Investment Fund (Series G)"", 'Morgan Stanley (Debt Financing)', 'Didi Chuxing (Venture)', 'SoftBank (Venture)', 'Dragoneer Investment Group (Venture)']",Transportation,"['$62.5B', 'Sep 2017']",$8.6B,0%
+1,ANT Financial,CHN,"['National Social Security Fund (NSSF) (Series A)', 'China Investment Corporation (Series B)']",Financial Services,"['$60B', 'Feb 2017']",$4.5B,-
+2,Didi Chuxing,CHN,"['GSR Ventures (Series A)', 'Tencent Industry Win-Win Fund (Series B)', 'Temasek Holdings (Series D)', 'China Merchants Bank (Debt Financing)', 'China Life Insurance (Debt Financing)', 'Apple (Round)', 'Foxconn Technology Group (Round)']",Consumer Internet,"['$50B', 'Apr 2017']",$13B,0%
+3,Xiaomi,CHN,"['Morningside Group (Series A)', 'Qiming Venture Partners (Series B)', 'Morningside Group (Series B)', 'Morningside Group (Series C)', 'Ratan Tata (Round)']",Hardware,"['$45B*', 'Jul 2017']",$1.1B,+200%
+4,Airbnb,USA,"['Y Combinator (Seed)', 'Sequoia Capital (Seed)', 'Greylock Partners (Series A)', 'Andreessen Horowitz (Series B)', 'Founders Fund (Series C)', 'General Atlantic (Series E)', 'Hillhouse Capital Group (Series E)', 'Tiger Global Management (Series E)', 'FirstMark (Private Equity)', 'JP Morgan Chase & Co. (Debt Financing)', 'CapitalG (Series F)', 'TCV (Series F)', 'CapitalG (Series F)', 'TCV (Series F)']",Consumer Internet,"['$31B', 'Mar 2017']",$3.4B,+100%
+5,Space-X,USA,"['Founders Fund (Series A)', 'Draper Fisher Jurvetson (DFJ) (Series D)', 'Google (Series E)']",Aerospace and Defense,"['$21B', 'Jul 2017']",$1.5B,+100%
+6,Palantir Technologies,USA,"['Founders Fund (Series D)', 'Kortschak Investments, L.P. (Private Equity)']",Software,"['$20.33B', 'Nov 2016']",$2B,0%
+7,Toutiao,CHN,"['Sequoia Capital (Series C)', 'Sequoia Capital (Series D)', 'CCB International (Series D)', 'General Atlantic (Private Equity)']",Consumer Internet,"['$20B*', 'Aug 2017']",$3.1B,0%
+8,WeWork,USA,"['Goldman Sachs (Series D)', 'T. Rowe Price (Series D)', 'Wellington Management (Series D)', 'Glade Brook Capital Partners (Series E)', 'Hony Capital (Series F)', 'Legend Holdings (Series F)', 'SoftBank (Private Equity)', 'SoftBank (Private Equity)']",Real Estate,"['$20B', 'Aug 2017']",$5.45B,0%
+9,Lufax,CHN,"['BlackPine Private Equity Partners (Series A)', 'COFCO (Series B)']",Financial Services,"['$18.5B', 'Jan 2016']",$1.7B,0%
+10,Meituan-Dianping,CHN,"['Sequoia Capital (Series A)', 'China Resources (Venture)']",Consumer Internet,"['$18B', 'Jul 2016']",$4.34B,+300%
+11,Pinterest,USA,"['FirstMark (Angel)', 'Bessemer Venture Partners (Series A)', 'Andreessen Horowitz (Series B)', 'Rakuten (Series C)', 'Valiant Capital Partners (Series D)', 'Fidelity Investments (Series E)', 'SV Angel (Series F)', 'Goldman Sachs (Series G)', 'Wellington Management (Series G)', 'SV Angel (Series G)']",Consumer Internet,"['$12.3B', 'Jun 2017']",$1.47B,0%
+12,Flipkart,IND,"['Accel Partners (Series A)', 'Tiger Global Management (Series B)', 'Tiger Global Management (Series C)', 'Naspers (Series D)', 'DST Global (Series F)', 'Tiger Global Management (Series G)', 'Naspers (Series G)', 'Steadview Capital (Series H)', 'Naspers (Private Equity)', 'SoftBank (Private Equity)', 'Axis Bank (Debt Financing)']",E-Commerce,"['$11.6B', 'Sep 2017']",$6.12B,0%
+13,Dropbox,USA,"['Sequoia Capital (Series A)', 'Index Ventures (Series B)', 'BlackRock (Series C)', 'JPMorgan Investment (Debt Financing)', 'JP Morgan Chase & Co. (Debt Financing)']",Software,"['$10.35B', 'Mar 2017']",$600M,+100%
+14,Infor,USA,['Koch Equity Development (Private Equity)'],Software,"['$10B', 'Nov 2016']",$2.5B,-
+15,Stripe,USA,"['Y Combinator (Seed)', 'Sequoia Capital (Series A)', 'General Catalyst (Series B)', 'Founders Fund (Series C)', 'Thrive Capital (Series C)', 'General Catalyst (Series D)', 'CapitalG (Series D)']",Financial Services,"['$9.2B', 'Nov 2016']",$440M,0%
+16,Spotify,SWE,"['Horizons Ventures (Series B)', 'Founders Fund (Series C)', 'Accel Partners (Series D)', 'Goldman Sachs (Series E)', 'TCV (Series F)']",Consumer Internet,"['$8.53B', 'Mar 2016']",$1.06B,+100%
+17,ZhongAn,Financial Services,[],Financial Services,"['$8B', 'Jun 2015']",$934M,-
+18,DJI,CHN,"['Sequoia Capital (Series A)', 'Accel Partners (Series B)']",Hardware,"['$8B*', 'May 2015']",$105M,+300%
+19,Koubei.com,CHN,"['Alibaba (Round)', 'Ant Financial (Round)', 'Silver Lake Partners (Private Equity)', 'Primavera Capital Group (Private Equity)', 'YF Capital (Yunfeng Capital) (Private Equity)', 'CDH Investments (Private Equity)']",Local Business,"['$8B*', 'Jan 2017']",$1.1B,-
+20,One97 Communications,IND,"['Sapphire Ventures (Venture)', 'Ant Financial (Round)', 'Alibaba (Round)', 'Mountain Capital (Venture)', 'SoftBank (Round)']",Financial Services,"['$8B', 'May 2017']",$2.5B,0%
+21,Cainiao Logistics,CHN,"['Temasek Holdings (Series A)', 'GIC (Series A)']",Transportation,"['$7.7B', 'Mar 2016']",$1.5B,-
+22,Lyft,USA,"['fbFund (Seed)', 'K9 Ventures (Seed)', 'FLOODGATE (Seed)', 'Mayfield Fund (Series A)', 'Founders Fund (Series B)', 'Andreessen Horowitz (Series C)', 'Coatue Management (Series D)', 'Rakuten (Series E)', 'Icahn Enterprises (Series E)', 'General Motors (Series F)']",Transportation,"['$7.5B', 'Apr 2017']",$2.61B,0%
+23,Jiedaibao,Financial Services,[],Financial Services,"['$7.3B', 'Jan 2016']",$700M,+100%
+24,JD Finance,CHN,"['China Taiping Insurance (Private Equity)', 'Harvest Global Investments (Private Equity)', 'Sequoia Capital (Private Equity)']",Financial Services,"['$7.1B', 'Jan 2016']",$1B,-
+25,Snapdeal,IND,"['Nexus Venture Partners (Series A)', 'Kalaari Capital (Series A)', 'Bessemer Venture Partners (Series B)', 'Recruit Co., Ltd (Series C)', 'eBay (Series C)', 'Intel Capital (Series C)', 'SoftBank Capital (Venture)', 'eBay (Series D)', 'BlackRock (Series E)', 'Ratan Tata (Venture)', 'SoftBank Telecom Corp (Private Equity)', 'SoftBank Telecom Corp (Round)', 'Foxconn Technology Group (Round)', 'Alibaba (Round)', 'Clouse SA (Venture)', 'Nexus Venture Partners (Venture)']",E-Commerce,"['$6.5B', 'May 2017']",$1.6B,0%
+26,Grab,SGP,"['Vertex Ventures (Series A)', 'GGV Capital (Series B)', 'Tiger Global Management (Series C)', 'SoftBank Capital (Series D)', 'SoftBank Capital (Series F)', 'Tokyo Century (Round)', 'Emtek Group (Round)', 'Didi Chuxing (Series G)', 'SoftBank (Series G)']",Transportation,"['$6B', 'Jul 2017']",$3.44B,+100%
+27,Ele.me,CHN,"['Sequoia Capital (Series B)', 'Sequoia Capital (Series C)', 'Meituan-Dianping (Series D)', 'Tencent Holdings (Series E)', 'CITIC Capital Holdings (Series F)', 'Hualian (Series F)', 'Alibaba Group (Round)', 'Alibaba (Round)']",Consumer Internet,"['$6B', 'Jun 2017']",$3.34B,-
+28,Hulu,USA,"['Providence Equity Partners (Private Equity)', 'The Walt Disney Company (Round)', 'Time Warner (Round)']",Entertainment,"['$5.8B', 'Aug 2016']",$680M,-
+29,Home Link (Lianjia),CHN,['Huasheng Capital (Series B)'],Real Estate,"['$5.7B', 'Apr 2016']",$600M,-
+30,Vice Media,USA,"['21st Century Fox (Round)', 'A+E Networks (Round)', 'TCV (Private Equity)', 'The Walt Disney Company (Round)', 'The Walt Disney Company (Round)', 'TPG (formerly Texas Pacific Group) (Private Equity)']",Consumer Internet,"['$5.7B', 'Jun 2017']",$1.42B,0%
+31,Outcome Health,USA,['Goldman Sachs (Series A)'],Healthcare,"['$5.5B', 'May 2017']",$500M,-
+32,Coupang,KOR,"['Maverick Capital (Venture)', 'Altos Ventures (Venture)', 'Sequoia Capital (Private Equity)', 'BlackRock Private Equity Partners (Private Equity)', 'SoftBank (Private Equity)']",E-Commerce,"['$5B', 'Aug 2016']",$1.4B,+100%
+33,Zenefits,USA,"['Venrock (Seed)', 'Maverick Capital (Seed)', 'Andreessen Horowitz (Series A)', 'Andreessen Horowitz (Series B)', 'TPG (formerly Texas Pacific Group) (Series C)', 'Fidelity Investments (Series C)']",Software,"['$4.5B', 'May 2015']",$584M,+800%
+34,Magic Leap,USA,"['Google (Series B)', 'Alibaba (Series C)', 'Temasek Holdings (Private Equity)']",Hardware,"['$4.5B', 'Sep 2017']",$1.39B,0%
+35,SoFi,USA,"['Baseline Ventures (Series B)', 'Morgan Stanley (Debt Financing)', 'The Bancorp (Debt Financing)', 'East West Bank (Debt Financing)', 'Discovery Capital (Series C)', 'Third Point Ventures (Series D)', 'SoftBank (Series E)', 'Silver Lake Partners (Series F)']",Financial Services,"['$4.3B', 'Feb 2017']",$1.88B,-
+36,BAIC BJEV,Transportation,[],Transportation,"['$4.2B', 'Aug 2017']",$1.66B,-
+37,Yello Mobile,KOR,"['Formation 8 (Venture)', 'Formation 8 (Convertible Note)', 'SBI Investment (Convertible Note)', 'Macquarie Capital (Convertible Note)']",Consumer Internet,"['$4B', 'Nov 2016']",$187M,0%
+38,Houzz,USA,"['Zeev Ventures (Series A)', 'Sequoia Capital (Series B)', 'GGV Capital (Series C)', 'New Enterprise Associates (Series C)', 'Sequoia Capital (Series D)', 'ICONIQ Capital (Series E)']",Consumer Internet,"['$4B', 'Jun 2017']",$614M,0%
+39,Slack,USA,"['Accel Partners (Seed)', 'SV Angel (Seed)', 'Accel Partners (Series A)', 'Andreessen Horowitz (Series B)', 'Accel Partners (Series B)', 'FundersClub (Venture)', 'Social Capital (Series C)', 'GV (Series D)', 'Kleiner Perkins Caufield & Byers (Series D)', 'Social Capital (Series E)', 'Thrive Capital (Series F)', 'SoftBank (Series G)']",Software,"['$3.8B', 'Sep 2017']",$540M,0%
+40,Sea Limited,SGP,"[""Ontario Teachers' Pension Plan (Venture)"", 'General Atlantic (Series D)', 'Khazanah Nasional (Series D)']",Entertainment,"['$3.75B', 'May 2017']",$1.05B,-
+41,Tanium,USA,"['Andreessen Horowitz (Series E)', 'Andreessen Horowitz (Series F)', 'Geodesic Capital (Series G)', 'IVP (Institutional Venture Partners) (Series G)', 'TPG (formerly Texas Pacific Group) (Series G)', 'Franklin Templeton Investments (Series G)']",Software,"['$3.75B', 'Sep 2015']",$300M,+100%
+42,Intarcia Therapeutics,USA,"['Venrock (Series D)', 'GGV Capital (Series E)', 'New Leaf Venture Partners (Series B)', 'RA Capital Management (Series D)', 'Baillie Gifford (Series E)', 'Bill & Melinda Gates Foundation (Series E)']",Healthcare,"['$3.72B', 'Dec 2016']",$1.25B,+200%
+43,Ola,IND,"['Tiger Global Management (Series A)', 'Steadview Capital (Series C)', 'Sequoia Capital (Series C)', 'SoftBank Capital (Series D)', 'DST Global (Series E)', 'Baillie Gifford (Series F)', 'Vanguard (Series G)', 'SoftBank (Private Equity)', 'Falcon Edge Capital (Private Equity)', 'Tekne Capital (Private Equity)', 'Tekne Capital (Private Equity)', 'Yes Bank (Debt Financing)']",Transportation,"['$3.65B', 'Sep 2017']",$1.75B,+100%
+44,GreenSky,USA,"['TPG (formerly Texas Pacific Group) (Venture)', 'Fifth Third Bancorp (Private Equity)']",FinTech,"['$3.6B', 'Sep 2016']",$350M,0%
+45,Credit Karma,USA,"['QED Investors (Series A)', 'Ribbit Capital (Series B)', 'Susquehanna Growth Equity (Series B)', 'CapitalG (Series C)', 'SV Angel (Series C)']",Financial Services,"['$3.5B', 'Jun 2015']",$368M,+200%
+46,Instacart,USA,"['Y Combinator (Seed)', 'Sequoia Capital (Series A)', 'Andreessen Horowitz (Series B)', 'Kleiner Perkins Caufield & Byers (Series C)', 'Whole Foods Market (Round)', 'Sequoia Capital (Series D)']",Consumer Internet,"['$3.4B', 'Mar 2017']",$675M,+400%
+47,LeSports,CHN,"['YF Capital (Yunfeng Capital) (Series A)', 'WANDA Group (Series A)', 'HNA Group (Series B)', 'Zhongyi Ningbo Ecological Park (Series B)']",Entertainment,"['$3.3B', 'May 2017']",$1.4B,+600%
+48,The Hut Group,GBR,['Old Mutual Global Investors (Private Equity)'],E-Commerce,"['$3.25B', 'Aug 2017']",$180M,-
+49,Fanatics,USA,"['Insight Venture Partners (Venture)', 'Silver Lake Partners (Private Equity)', 'SoftBank (Private Equity)']",E-Commerce,"['$3.17B', 'Sep 2017']",$395M,-
+50,Lazada Group,MYS,"['Rocket Internet (Series A)', 'Summit Partners (Series B)', 'Tengelmann Ventures (Series C)', 'Tesco (Series E)', 'Temasek Holdings (Series F)', 'Alibaba (Round)']",E-Commerce,"['$3.15B', 'Apr 2016']",$1.2B,0%
+51,Ofo,CHN,"['Hongdao Capital (Seed)', 'Will Hunting Capital (Seed)', 'GSR Ventures (Series A)', 'ZhenFund (Series A)', 'Matrix Partners China (Series B)', 'Didi Chuxing (Series C)', 'CITIC PE (Series C)', 'Coatue Management (Series C)', 'Shunwei Capital (Series C)', 'DST Global (Series D)', 'Ant Financial (Round)', 'Alibaba (Series E)']",Transportation,"['$3B*', 'Jul 2017']",$1.29B,-
+52,Royole Corporation,USA,"['Warmsun Holding Group (Series D)', 'Zhongtai Chuanghui Equity Investment Fund (Series D)']",Hardware,"['$3B', 'May 2017']",$310M,-
+53,Go-Jek,IDN,"['KKR & Co. (Kohlberg Kravis Roberts & Co.) (Private Equity)', 'Warburg Pincus (Private Equity)', 'Tencent Holdings (Private Equity)']",Transportation,"['$3B', 'May 2017']",$1.75B,+100%
+54,"MZ (Machine Zone, Inc.)",USA,"['Y Combinator (Seed)', 'Menlo Ventures (Series B)', 'JPMorgan Investment (Series C)']",Entertainment,"['$3B*', 'May 2015']",$265M,-
+55,Wish,USA,"['Formation 8 (Series A)', 'GGV Capital (Series B)', 'Founders Fund (Series C)', 'DST Global (Series D)', 'Temasek Holdings (Series F)']",E-Commerce,"['$3B', 'Nov 2016']",$579M,-
+56,Best Logistics Technologies,CHN,"['Alibaba Capital Partners (Angel)', 'CITIC Capital Holdings (Private Equity)', 'Everbright Financial Holding Asset Management (Private Equity)']",Transportation,"['$3B*', 'Sep 2016']",$788M,-
+57,Miaopai,CHN,"['Kleiner Perkins Caufield & Byers (Series C)', 'Sina Weibo (Series D)', 'Weibo (Series E)', 'Sina.Com (Series E)']",Consumer Internet,"['$3B', 'Nov 2016']",$750M,+200%
+58,DocuSign,USA,"['Frazier Technology Ventures (Series A)', 'Sigma Partners (Series B)', 'WestRiver Capital (Series C)', 'Scale Venture Partners (Series C)', 'GV (Series D)', 'Kleiner Perkins Caufield & Byers (Series D)', 'Bain Capital Ventures (Series F)', 'Brookside Capital (Series F)', 'Intel Capital (Series F)', 'Deutsche Telekom (Series F)']",Software,"['$3B', 'Jun 2017']",$508M,0%
+59,Ping An Good Doctor,Healthcare,[],Healthcare,"['$3B', 'May 2016']",$500M,-
+60,LY.com,CHN,"['Oriza Holdings (Series A)', 'Tencent Holdings (Series B)', 'Tencent Holdings (Series C)', 'Ctrip (Round)', 'WANDA Group (Round)']",Travel,"['$3B', 'Oct 2016']",$1.41B,-
+61,Wanda e-commerce,CHN,['WANDA Group (Venture)'],E-commerce,"['$3B', 'Jan 2015']",$974M,-
+62,Moderna Therapeutics,USA,"['Flagship Pioneering (Venture)', 'DARPA (Grant)', 'Alexion Pharmaceuticals (Venture)']",Healthcare,"['$3B', 'Sep 2016']",$1.15B,-
+63,Meizu,CHN,['Alibaba (Round)'],Hardware,"['$3B', 'Feb 2015']",$890M,-
+64,VANCL,CHN,"['Ceyuan Ventures (Series E)', 'Lei Jun (Series G)']",E-Commerce,"['$3B', 'Feb 2014']",$570M,-
+65,Kuaishou,CHN,['Tencent Holdings (Series D)'],Consumer Internet,"['$3B*', 'Mar 2017']",$350M,-
+66,Mobike,CHN,"['Joy Capital (Series A)', 'Panda Capital (Series B)', 'Vertex Ventures (Series B)', 'Hillhouse Capital Group (Series C)', 'Warburg Pincus (Series C)', 'Tencent Holdings (Series D)', 'Foxconn Technology Group (Round)', 'Temasek Holdings (Round)', 'Tencent Holdings (Series E)']",Transportation,"['$3B*', 'Jun 2017']",$928M,-
+67,Fenqile,CHN,"['Matrix Partners China (Series A)', 'DST Global (Series B)', 'JD.com (Series C)', 'Huasheng Capital (Series C)']",E-Commerce,"['$2.9B*', 'Jun 2016']",$235M,-
+68,Bloom Energy,USA,"['Kleiner Perkins Caufield & Byers (Series D)', 'New Enterprise Associates (Series D)', 'Mobius Venture Capital (Series D)', 'Advanced Equities (Series F)', 'Apex Venture Partners (Series G)', 'E.ON (Series G)']",Energy,"['$2.83B', 'Jan 2015']",$1.11B,0%
+69,NIO,CHN,"['Sequoia Capital (Series B)', 'Joy Capital (Series B)', 'Tencent Holdings (Venture)', 'Baidu (Venture)']",Transportation,"['$2.8B', 'Mar 2017']",$1.1B,-
+70,AUTO1 Group,DEU,['Princeville Global (Round)'],Auto,"['$2.8B', 'May 2017']",$522M,+100%
+71,Pivotal,USA,"['VMware (Series A)', 'EMC (Series A)', 'General Electric (GE) (Series B)', 'Ford Motor Company (Series C)', 'EMC (Series C)']",Enterprise,"['$2.8B', 'May 2016']",$1.7B,+100%
+72,Oscar,USA,"['Thrive Capital (Series A)', 'Founders Fund (Series A)', 'Formation 8 (Series B)', 'Founders Fund (Series C)', 'CapitalG (Venture)', 'Fidelity Investments (Private Equity)']",Healthcare,"['$2.7B', 'Feb 2016']",$727M,0%
+73,Unity Technologies,USA,"['Sequoia Capital (Series A)', 'WestSummit Capital (Series B)', 'iGlobe Partners (Series B)', 'Sequoia Capital (Venture)', 'Sequoia Capital (Venture)', 'DFJ Growth (Series C)', 'Silver Lake Partners (Private Equity)']",Entertainment,"['$2.6B', 'May 2017']",$690M,0%
+74,Qualtrics,USA,"['Sequoia Capital (Series A)', 'Accel Partners (Series A)', 'Accel Partners (Series B)', 'Insight Venture Partners (Series B)', 'Accel Partners (Series C)', 'Insight Venture Partners (Series C)']",Software,"['$2.5B', 'Apr 2017']",$400M,+100%
+75,Klarna,SWE,"['Investment AB Öresund (Series A)', 'Sequoia Capital (Series B)', 'General Atlantic (Series C)', 'DST Global (Series C)', 'Creandum (Round)', 'Visa (Round)', 'Permira (Private Equity)']",E-Commerce,"['$2.5B*', 'Jul 2017']",$600M,-
+76,OneWeb,GBR,"['Qualcomm Ventures (Seed)', 'Virgin Group (Seed)', 'SoftBank (Private Equity)']",Aerospace and Defense,"['$2.5B', 'Dec 2016']",$1.7B,-
+77,Mozido,Financial Services,[],Financial Services,"['$2.39B', 'Oct 2014']",$307M,-
+78,Domo,USA,"['Benchmark (Series A)', 'IVP (Institutional Venture Partners) (Series A)', 'TPG Growth (Series C)', 'BlackRock (Series D)', 'BlackRock (Series D)']",Software,"['$2.3B', 'Apr 2017']",$690M,+100%
+79,Adyen,NLD,"['Index Ventures (Venture)', 'General Atlantic (Venture)', 'ICONIQ Capital (Venture)']",Financial Services,"['$2.3B', 'Sep 2015']",$266M,-
+80,Huimin,CHN,"['Morningside Group (Series A)', 'GP Capital (Series A)', 'China Innovation Investment (Beijing) (Series B)', 'China United SME Guarantee Corporation (Series B)']",E-Commerce,"['$2.2B*', 'Sep 2016']",$292M,-
+81,Taobao Movie,CHN,"['CDH Investments (Series A)', 'Ant Financial (Series A)', 'Sina (Series A)']",Entertainment,"['$2.1B', 'May 2016']",$260M,-
+82,Meicai,CHN,['ZhenFund (Seed)'],Food and Beverage,"['$2B', 'Jun 2016']",$200M,-
+83,Uptake,USA,"['GreatPoint Ventures (Series A)', 'Revolution (Series C)']",Analytics,"['$2B', 'Apr 2017']",$146M,-
+84,Uxin,CHN,"['Baidu (Series C)', 'TPG (formerly Texas Pacific Group) (Series D)', 'Jeneration Capital (Series D)', 'China Vision Capital (Series D)']",Transportation,"['$2B*', 'Jan 2017']",$960M,-
+85,Avant,USA,"['Victory Park Capital (Debt Financing)', 'August Capital (Series A)', 'August Capital (Series B)', 'Victory Park Capital (Debt Financing)', 'Tiger Global Management (Series C)', 'Jefferies (Debt Financing)', 'Tiger Global Management (Series D)', 'Victory Park Capital (Debt Financing)', 'KKR & Co. (Kohlberg Kravis Roberts & Co.) (Debt Financing)', 'General Atlantic (Series E)']",Financial Services,"['$2B*', 'Sep 2015']",$654M,-
+86,Trendy International Group,CHN,['L Catterton Asia (Private Equity)'],E-Commerce,"['$2B', 'Feb 2012']",$200M,-
+87,Beijing Weiying Technology,CHN,"['WANDA Group (Series B)', 'Tencent Holdings (Series B)', 'Chinese Anci Films & Television Fund (Series C)', 'Dalian Zeus Entertainment (Series C)']",E-commerce,"['$2B', 'Apr 2016']",$802M,-
+88,To8to,CHN,"['Matrix Partners China (Series A)', 'Matrix Partners China (Series A)', 'Sequoia Capital (Series B)']",Consumer Internet,"['$2B*', 'Mar 2015']",$217M,-
+89,InMobi,IND,"['Kleiner Perkins Caufield & Byers (Series B)', 'Sherpalo Ventures (Series B)', 'SoftBank Capital (Series C)', 'SoftBank Capital (Venture)']",Software,"['$2B*', 'Sep 2015']",$220M,+200%
+90,GitHub,USA,"['Andreessen Horowitz (Series A)', 'Sequoia Capital (Series B)']",Software,"['$2B*', 'Dec 2015']",$350M,+100%
+91,Firstp2p,CHN,['CCB International (Series C)'],Financial Services,"['$2B', 'Sep 2016']",$111M,-
+92,HelloFresh,DEU,"['Vorwerk Direct Selling Ventures (Series B)', 'Phenomen Ventures (Series C)', 'Insight Venture Partners (Series D)', 'Rocket Internet (Series E)', 'Baillie Gifford (Series F)', 'Baillie Gifford (Series G)']",Food and Beverage,"['$2B', 'Dec 2016']",$364M,0%
+93,Megvii,CHN,"['Qiming Venture Partners (Series B)', 'Foxteq Holdings (Series C)']",Software,"['$2B*', 'Dec 2016']",$147M,-
+94,Mango TV,Entertainment,[],Entertainment,"['$2B', 'Jun 2016']",$390M,0%
+95,SurveyMonkey,USA,"['Bank of America Merrill Lynch (Debt Financing)', 'SunTrust Robinson Humphrey (Debt Financing)', 'JP Morgan Chase & Co. (Debt Financing)', 'Tiger Global Management (Private Equity)']",Software,"['$2B', 'Dec 2014']",$694M,-
+96,Yinlong Group,Transportation,[],Transportation,"['$1.93B', 'Dec 2016']",$432M,-
+97,Prosper,USA,"['Accel Partners (Series A)', 'Fidelity Ventures (Series B)', 'DAG Ventures (Series C)', 'Meritech Capital Partners (Series C)', 'QED Investors (Venture)', 'TomorrowVentures (Series D)', 'Draper Fisher Jurvetson (DFJ) (Series E)', 'Sequoia Capital (Venture)', 'Sequoia Capital (Venture)', 'Francisco Partners (Private Equity)', 'Credit Suisse (Private Equity)', 'FinEX Asia (Series G)']",Financial Services,"['$1.9B', 'Sep 2017']",$355M,+200%
+98,BenevolentAI,Healthcare,[],Healthcare,"['$1.85B', 'Aug 2015']",$88M,-
+99,Quora,USA,"['Benchmark (Series A)', 'Tiger Global Management (Series C)', 'Collaborative Fund (Series D)', 'Y Combinator (Series D)']",Consumer Internet,"['$1.8B', 'Apr 2017']",$226M,+100%
+100,NantOmics,USA,['NantHealth (Series A)'],Healthcare,"['$1.8B', 'Jun 2015']",$250M,-
+101,Sprinklr,USA,"['Battery Ventures (Series A)', 'Battery Ventures (Series B)', 'Battery Ventures (Series C)', 'Intel Capital (Series C)', 'ICONIQ Capital (Series D)', 'ICONIQ Capital (Series E)', 'Battery Ventures (Series E)', 'Intel Capital (Series E)', 'Temasek Holdings (Series F)']",Enterprise SaaS,"['$1.8B', 'Jul 2016']",$229M,0%
+102,Reddit,USA,['Sam Altman (Series B)'],Consumer Internet,"['$1.8B', 'Aug 2017']",$250M,+200%
+103,ZocDoc,USA,"['Khosla Ventures (Series A)', 'Founders Fund (Series B)', 'Baillie Gifford (Series D)', 'Atomico (Series D)']",Healthcare,"['$1.8B', 'Aug 2015']",$225M,-
+104,Honest Co.,USA,"['Lightspeed Venture Partners (Seed)', 'General Catalyst (Series A)', 'IVP (Institutional Venture Partners) (Series B)', 'Wellington Management (Series C)', 'Glade Brook Capital Partners (Series D)']",E-commerce,"['$1.7B', 'Aug 2015']",$222M,0%
+105,CureVac,DEU,"['OH Beteiligungen (Series B)', 'DH Capital (Series B)', 'dievini Hopp Biotech Holding (Series C)', 'dievini Hopp Biotech Holding (Series D)', 'Bill & Melinda Gates Foundation (Series E)', 'Baillie Gifford (Series F)', 'Baden-Württembergische Versorgungsanstalt für Ärzte (Series G)']",Healthcare,"['$1.65B', 'Nov 2016']",$328M,0%
+106,Zhubajie,CHN,"['IDG Capital Partners (Series B)', 'Cybernaut Venture Capital (Series C)', 'Chongqing New North Zone Government Investment Fund (Series C)']",Consumer Internet,"['$1.6B', 'Jun 2015']",$430M,-
+107,JetSmarter,USA,['Clearlake Capital Group (Private Equity)'],Transportation,"['$1.6B', 'Aug 2017']",$158M,-
+108,Coinbase,USA,"['Andreessen Horowitz (Series B)', 'Draper Fisher Jurvetson (DFJ) (Series C)', 'Bank Of Tokyo - Mitsubishi UFJ (Venture)', 'IVP (Institutional Venture Partners) (Series D)']",Financial Services,"['$1.6B', 'Aug 2017']",$217M,-
+109,Lakala,CHN,['Legend Capital (Series C)'],Financial Services,"['$1.6B', 'Jun 2015']",$312M,-
+110,MongoDB,USA,"['Union Square Ventures (Series A)', 'Flybridge Capital Partners (Series B)', 'Sequoia Capital (Series C)', 'Sequoia Capital (Series D)', 'New Enterprise Associates (Series E)', 'T. Rowe Price (Series E)']",Software,"['$1.6B', 'Aug 2015']",$311M,0%
+111,BlaBlaCar,FRA,"['Accel Partners (Series B)', 'Index Ventures (Series C)', 'Insight Venture Partners (Series D)', 'Baring Vostok Capital Partners (Round)']",Transportation,"['$1.6B', 'Sep 2016']",$270M,-
+112,Quanergy Systems,USA,"['Motus Ventures (Seed)', 'Rising Tide (Series A)']",Auto,"['$1.59B', 'Aug 2016']",$125.31M,-
+113,Oxford Nanopore Technologies,GBR,"['IP Group Plc (Seed)', 'Woodford Investment Management (Series A)', 'IP Group Plc (Series B)', 'Illumina (Venture)', 'IP Group Plc (Venture)', 'GT Healthcare (Venture)']",Healthcare,"['$1.58B', 'Dec 2016']",$625M,0%
+114,Deem,USA,"['JP Morgan Chase & Co. (Series F)', 'Hony Capital (Venture)', 'PointGuard Ventures (Venture)']",Software,"['$1.56B', 'Apr 2016']",$505M,-
+115,Zoox,USA,"['Lux Capital (Seed)', 'Draper Fisher Jurvetson (DFJ) (Seed)', 'Blackbird Ventures (Australia) (Series A)', 'Thomas Tull (Series A)', 'Lux Capital (Series A)', 'Draper Fisher Jurvetson (DFJ) (Series A)']",Auto,"['$1.55B', 'Oct 2016']",$290M,-
+116,Pinduoduo,CHN,['Banyan Capital (Series A)'],E-Commerce,"['$1.5B', 'Jul 2016']",$118M,-
+117,Jawbone,USA,"['Khosla Ventures (Series A)', 'Sequoia Capital (Series B)', 'Andreessen Horowitz (Venture)', 'JPMorgan Investment (Venture)', 'Rizvi Traverse Management (Private Equity)', 'BlackRock (Debt Financing)', 'Kuwait Investment Authority (Private Equity)']",Hardware,"['$1.5B', 'Jan 2016']",$590M,0%
+118,BGI,CHN,"['Shenzhen Capital Group (Grant)', 'China Development Bank International (Debt Financing)', 'Taikang Life Insurance (Series B)']",Healthcare,"['$1.5B', 'Jun 2015']",$150M,-
+119,Mu Sigma,USA,"['Sequoia Capital (Series C)', 'General Atlantic (Private Equity)', 'MasterCard (Round)']",Software,"['$1.5B*', 'Mar 2016']",$195M,-
+120,BuzzFeed,USA,"['Hearst Ventures (Series A)', 'RRE Ventures (Series B)', 'New Enterprise Associates (Series C)', 'New Enterprise Associates (Series D)', 'Comcast NBC Universal (Series F)', 'Comcast NBC Universal (Series G)']",Entertainment,"['$1.5B', 'Nov 2016']",$500M,0%
+121,Razer,USA,"['IDG Capital Partners (Venture)', 'Accel Partners (Venture)', 'Intel Capital (Venture)', 'LianLuo, formerly known as Beijing Digital Grid (Series C)', 'Horizons Ventures (Round)']",Hardware,"['$1.5B', 'May 2017']",$175M,0%
+122,Blippar,GBR,"['Qualcomm Ventures (Venture)', 'Khazanah Nasional (Series D)']",Consumer Internet,"['$1.5B*', 'Mar 2016']",$99M,-
+123,Qudian,CHN,"['Kunlun (Series D)', 'Ant Financial (Series E)']",Financial Services,"['$1.5B', 'Jul 2016']",$875M,-
+124,WeDoctor (Guahao),CHN,"['Tencent Holdings (Venture)', 'Hillhouse Capital Group (Private Equity)', 'Goldman Sachs (Private Equity)', 'Shandong Tyan Home (Round)']",Healthcare,"['$1.5B', 'Jan 2016']",$521M,-
+125,Farfetch,GBR,"['Advent Venture Partners (Series A)', 'Index Ventures (Series B)', 'Condé Nast (Series C)', 'Vitruvian Partners (Series D)', 'DST Global (Series E)', 'IDG Capital Partners (Series F)', 'Temasek Holdings (Series F)', 'Eurazeo (Series F)', 'JD.com (Round)']",E-commerce,"['$1.5B', 'Jun 2017']",$701.5M,0%
+126,InsideSales.com,USA,"['HWVP, Hummer Winblad Venture Partners (Series A)', 'U.S. Venture Partners (USVP) (Series B)', 'Polaris Partners (Series C)', 'Salesforce Ventures (Series D)', 'Polar Capital Management Inc. (Series E)']",Software,"['$1.5B', 'Jan 2017']",$250M,-
+127,SenseTime,HKG,"['CDH Investments (Series B)', 'Sailing Capital (Series B)']",Artificial Intelligence,"['$1.47B', 'Jul 2017']",$410M,-
+128,Tuandaiwang,CHN,['China Minsheng Investment Group (Private Equity)'],Financial Services,"['$1.46B', 'May 2017']",$350M,-
+129,AvidXchange,USA,"['CT Communications (Series B)', 'Charlotte Angel Partners (Series B)', 'Bain Capital Ventures (Private Equity)', 'Fifth Third Capital (Series E)']",Financial Services,"['$1.4B', 'Jun 2017']",$545M,0%
+130,Conduit,ISR,"['Benchmark (Series B)', 'JPMorgan Investment (Private Equity)']",Software,"['$1.4B', 'Apr 2012']",$109.8M,-
+131,Hike,IND,"['Bharti Soft Bank (Series A)', 'Bharti Soft Bank (Series B)', 'Tiger Global Management (Series C)', 'Tencent Holdings (Series D)', 'Foxconn Technology Group (Series D)']",Consumer Internet,"['$1.4B', 'Aug 2016']",$261M,-
+132,C3 IoT,USA,"['TPG Growth (Series D)', 'Breyer Capital (Series E)']",Enterprise,"['$1.4B', 'Mar 2017']",$111M,-
+133,Koudai,CHN,['Tencent Holdings (Series C)'],E-Commerce,"['$1.35B', 'Oct 2014']",$368M,-
+134,Decolar.com,BRA,['Expedia (Round)'],Travel,"['$1.35B', 'Mar 2015']",$270M,-
+135,Robinhood,USA,"['Index Ventures (Seed)', 'Index Ventures (Series A)', 'New Enterprise Associates (Series B)', 'DST Global (Series C)']",Financial Services,"['$1.3B', 'Apr 2017']",$176M,-
+136,Zeta Interactive,USA,"['GSO Capital Partners (Series F)', 'GPI Capital (Series F)']",Software,"['$1.3B', 'Apr 2017']",$310M,-
+137,Thumbtack,USA,"['Javelin Venture Partners (Series A)', 'Sequoia Capital (Series B)', 'CapitalG (Series D)', 'Baillie Gifford (Series E)']",Consumer Internet,"['$1.3B', 'Sep 2015']",$273.2M,0%
+138,Rubrik,USA,"['Lightspeed Venture Partners (Series A)', 'Greylock Partners (Series B)', 'Khosla Ventures (Series C)', 'IVP (Institutional Venture Partners) (Series D)', 'Kevin Durant (Venture)']",Enterprise,"['$1.3B', 'Aug 2017']",$292M,-
+139,Apttus,USA,"['Salesforce Ventures (Series A)', 'Salesforce Ventures (Series B)', 'Kuwait Investment Authority (Series C)', 'Gulf Islamic Investments LLC (GII) (Series D)', 'PremjiInvest (Series E)']",Software,"['$1.3B', 'Sep 2017']",$274M,0%
+140,New Dada,CHN,"['Sequoia Capital (Series A)', 'DST Global (Series C)', 'DST Global (Series D)', 'Walmart (Round)']",Consumer Internet,"['$1.3B', 'Oct 2016']",$400M,-
+141,Maoyan,CHN,['Enlight Media (Round)'],Entertainment,"['$1.3B', 'May 2016']",$245M,-
+142,Tujia,CHN,"['Lightspeed China Partners (Series A)', 'GGV Capital (Series B)', 'GGV Capital (Series C)', 'All-Stars Investment (Series D)']",Consumer Internet,"['$1.3B', 'Aug 2015']",$455M,-
+143,FanDuel,USA,"['Piton Capital (Series B)', 'Comcast Ventures (Series C)', 'Shamrock Capital Advisors (Series D)', 'KKR & Co. (Kohlberg Kravis Roberts & Co.) (Series E)']",Consumer Internet,"['$1.28B', 'Sep 2016']",$361M,-
+144,BrewDog,GBR,['TSG Consumer Partners (Private Equity)'],Food and Beverage,"['$1.25B', 'Aug 2017']",$225M,-
+145,Illumio,USA,"['Andreessen Horowitz (Series A)', 'General Catalyst (Series B)', 'BlackRock (Series C)', 'Accel Partners (Series C)', 'J.P. Morgan Asset Management (Series D)']",Software,"['$1.25B*', 'Jun 2017']",$267M,0%
+146,Peloton,USA,"['Tiger Global Management (Series B)', 'Tiger Global Management (Series C)', 'L Catterton (Series D)', 'Kleiner Perkins Caufield & Byers (Series E)', 'Fidelity Investments (Series E)', 'Wellington Management (Series E)', 'True Ventures (Series E)']",Consumer Internet,"['$1.25B', 'May 2017']",$445M,-
+147,Medallia,USA,"['Sequoia Capital (Series A)', 'Sequoia Capital (Series B)', 'Sequoia Capital (Series C)', 'Sequoia Capital (Series D)']",Software,"['$1.25B', 'Jul 2015']",$255M,-
+148,Red Ventures,USA,"['General Atlantic (Venture)', 'Silver Lake Partners (Private Equity)']",Software,"['$1.25B*', 'Jan 2015']",$250M,-
+149,Lashou.com,CHN,"['Tenaya Capital (Series B)', 'Milestone Partners (Series C)']",E-Commerce,"['$1.21B', 'Mar 2011']",$165M,-
+150,DraftKings,USA,"['Atlas Venture (Series A)', 'Redpoint (Series B)', 'Raine Partners (Series C)', '21st Century Fox (Series D)', 'Revolution (Series E)', 'Eldridge Industries (Series E)']",Consumer Internet,"['$1.2B', 'Mar 2017']",$696M,-
+151,Clover Health,USA,"['First Round Capital (Series A)', 'Sequoia Capital (Series B)', 'Greenoaks Capital (Series C)', 'Greenoaks Capital (Series D)']",Healthcare,"['$1.2B', 'May 2017']",$425M,-
+152,Yiguo,CHN,"['Alibaba (Series C)', 'KKR & Co. (Kohlberg Kravis Roberts & Co.) (Series C)', 'Suning (Series C)', 'Alibaba (Series D)']",E-commerce,"['$1.2B*', 'Aug 2017']",$500M,-
+153,Human Longevity,USA,['Illumina (Series B)'],Healthcare,"['$1.2B', 'Apr 2016']",$300M,-
+154,Infinidat,ISR,['TPG Growth (Series B)'],Software,"['$1.2B', 'Apr 2015']",$230M,-
+155,Sogou,CHN,['Tencent Holdings (Round)'],Software,"['$1.2B*', 'Sep 2013']",$448M,-
+156,Warby Parker,USA,"['Tiger Global Management (Series A)', 'General Catalyst (Series B)', 'Tiger Global Management (Series C)', 'T. Rowe Price (Series D)']",E-Commerce,"['$1.2B', 'Apr 2015']",$116M,-
+157,Careem,ARE,"['STC Ventures (Seed)', 'Abraaj Group (Series C)', 'Saudi Telecom Company (Series E)', 'Rakuten (Series E)', 'Kingdom Holding Company (Series E)']",Transportation,"['$1.2B', 'Aug 2017']",$570M,-
+158,Flatiron Health,USA,"['GV (Series A)', 'GV (Series B)', 'Roche (Series C)']",Healthcare,"['$1.2B', 'Jan 2016']",$313M,-
+159,AppNexus,USA,"['Venrock (Series B)', 'Kodiak Venture Partners (Series B)', 'Venrock (Series B)', 'TCV (Series D)', 'WPP Ventures (Series E)', 'News Corp. (Round)']",Software,"['$1.19B', 'Sep 2016']",$288M,-
+160,Proteus Digital Health,USA,"['Terra Lycos (Series A)', 'Yuan Capital (Series G)', 'Harbin Gloria Pharmaceuticals (Private Equity)']",Healthcare,"['$1.17B', 'Feb 2016']",$309M,-
+161,Automattic,USA,"['Polaris Partners (Series B)', 'Insight Venture Partners (Series C)']",Software,"['$1.16B', 'May 2014']",$317M,-
+162,NetEase Cloud Music,CHN,['Shanghai Media Group (Series A)'],Consumer Internet,"['$1.15B', 'Apr 2017']",$110M,-
+163,ALPHAEON Corporation,USA,"['Longitude Capital (Round)', 'Longitude Capital (Series A)', 'Sailing Capital (Series B)']",Healthcare,"['$1.15B', 'Aug 2016']",$160M,+100%
+164,Pluralsight,USA,['Insight Venture Partners (Series A)'],Education,"['$1.14B', 'Dec 2016']",$163M,-
+165,Global Fashion Group,LUX,"['Kinnevik AB (Venture)', 'Rocket Internet (Venture)', 'Rocket Internet (Venture)']",E-Commerce,"['$1.13B', 'Jul 2016']",$541M,0%
+166,Taboola,USA,"['Evergreen Venture Partners (Series A)', 'Evergreen Venture Partners (Series B)', 'Crescent Point Energy (Series B)', 'Marker (Series C)', 'Pitango Venture Capital (Series D)', 'Fidelity Management and Research Company (Series E)', 'Daily Mail (Venture)']",Advertising,"['$1.12B*', 'Jun 2015']",$160M,-
+167,Nextdoor,USA,"['Benchmark (Series A)', 'Greylock Partners (Series B)', 'Kleiner Perkins Caufield & Byers (Series C)', 'Tiger Global Management (Series C)', 'Redpoint (Series D)', 'Insight Venture Partners (Series D)']",Consumer Internet,"['$1.11B', 'Mar 2015']",$210M,0%
+168,Tango,USA,"['Draper Fisher Jurvetson (DFJ) (Series B)', 'Alibaba (Series D)']",Consumer Internet,"['$1.1B', 'Mar 2014']",$369M,-
+169,Paytm E-Commerce,IND,['Alibaba (Venture)'],E-Commerce,"['$1.1B', 'Mar 2017']",$200M,-
+170,TransferWise,GBR,"['Seedcamp (Seed)', 'Index Ventures (Seed)', 'IA Ventures (Seed)', 'Valar Ventures (Series A)', 'Valar Ventures (Series B)', 'Andreessen Horowitz (Series C)', 'Baillie Gifford (Series D)']",Financial Services,"['$1.1B', 'May 2016']",$116M,0%
+171,ShopClues,IND,"['Nexus Venture Partners (Series B)', 'Helion Venture Partners (Series B)', 'Helion Venture Partners (Series C)', 'Nexus Venture Partners (Series C)', 'Tiger Global Management (Series D)', 'GIC (Series E)', 'InnoVen Capital (Debt Financing)']",E-Commerce,"['$1.1B', 'May 2017']",$131M,-
+172,23andMe,USA,"['Google (Series A)', 'Johnson & Johnson Development Corporation (Series C)', 'National Institutes of Health (Grant)', 'National Institutes of Health (Grant)', 'Sequoia Capital (Series F)']",Healthcare,"['$1.1B', 'Sep 2017']",$242M,-
+173,Zscaler,USA,"['Lightspeed Venture Partners (Series A)', 'TPG Growth (Series B)']",Security,"['$1.1B', 'Aug 2015']",$138M,-
+174,OpenDoor,USA,"['Khosla Ventures (Series A)', 'GGV Capital (Series B)', 'Access Technology Ventures (Series C)', 'Norwest Venture Partners - NVP (Series D)']",Real Estate,"['$1.1B', 'Dec 2016']",$320M,0%
+175,Actifio,USA,"['Greylock Partners (Series A)', 'North Bridge Venture Partners & Growth Equity (Series A)', 'Advanced Technology Ventures (Series B)', 'Andreessen Horowitz (Series C)', 'TCV (Series D)', 'Tiger Global Management (Series E)']",Software,"['$1.1B', 'Mar 2014']",$208M,+100%
+176,MarkLogic,USA,"['Sequoia Capital (Series A)', 'Sequoia Capital (Series B)', 'Sequoia Capital (Series C)', 'Lehman Brothers (Series C)', 'Sequoia Capital (Series D)', 'Tenaya Capital (Series E)', 'Sequoia Capital (Series E)', 'Wellington Management (Series F)', 'NTT Data (Round)']",Software,"['$1.1B', 'May 2017']",$176M,-
+177,MindMaze,CHE,['Hinduja Group (Venture)'],Healthcare,"['$1.1B', 'Feb 2016']",$108M,-
+178,Adknowledge,USA,"['TCV (Venture)', 'JMI Equity (Series B)']",Advertising,"['$1.1B', 'Jan 2011']",$248M,-
+179,Cylance,USA,"['Khosla Ventures (Series A)', 'Fairhaven Capital Partners (Series A)', 'DFJ Growth (Series C)', 'Insight Venture Partners (Series D)', 'Blackstone Tactical Opportunities (Series D)']",Security,"['$1.1B*', 'Jun 2016']",$177M,-
+180,Anaplan,USA,"['Granite Ventures (Series B)', 'Shasta Ventures (Series B)', 'Meritech Capital Partners (Series C)', 'DFJ Growth (Series D)', 'PremjiInvest (Series E)']",Enterprise,"['$1.09B', 'Jan 2016']",$234M,-
+181,LeCloud,CHN,['Chongqing Industrial Investment Fund (Series A)'],Enterprise,"['$1.07B', 'Mar 2016']",$150M,-
+182,NJOY,Hardware,[],Hardware,"['$1.07B', 'Feb 2014']",$165M,-
+183,MediaMath,USA,"['Silicon Valley Bank (Debt Financing)', 'Goldman Sachs (Debt Financing)']",Advertising,"['$1.07B*', 'Jun 2017']",$208M,-
+184,Eventbrite,USA,"['Sequoia Capital (Series C)', 'DAG Ventures (Series D)', 'Tiger Global Management (Series E)', 'Tiger Global Management (Series F)']",Consumer Internet,"['$1.06B', 'Mar 2014']",$200M,-
+185,Zomato,IND,"['Info Edge (Series A)', 'Info Edge (Series B)', 'Info Edge (Series C)', 'Sequoia Capital (Series D)', 'Vy Capital (Series E)', 'Info Edge (Series E)', 'Info Edge (Series F)', 'Vy Capital (Series F)', 'Temasek Holdings (Series G)', 'Vy Capital (Series G)', 'Sequoia Capital (Series H)']",Consumer Internet,"['$1.05B', 'Apr 2017']",$164M,0%
+186,Wifi Skeleton Key,Software,[],Software,"['$1.05B', 'May 2015']",$52M,-
+187,Vox Media,USA,"['Accel Partners (Series A)', 'Khosla Ventures (Series C)', 'Accel Partners (Series D)', 'General Atlantic (Series E)', 'Comcast NBC Universal (Series F)']",Entertainment,"['$1.05B', 'Aug 2015']",$109M,+100%
+188,Gusto,USA,"['General Catalyst (Series A)', 'CapitalG (Series B)']",Financial Services,"['$1.05B', 'Jun 2016']",$136M,+300%
+189,CloudFlare,USA,"['Pelion Venture Partners (Series A)', 'Venrock (Series A)', 'New Enterprise Associates (Series B)', 'Union Square Ventures (Series C)', 'Fidelity Investments (Series D)']",Software,"['$1.05B', 'Sep 2015']",$72M,-
+190,Quikr,IND,"['Omidyar Network (Series B)', 'Norwest Venture Partners - NVP (Series C)', 'Nokia Growth Partners (NGP) (Series D)', 'Warburg Pincus (Series E)', 'Kinnevik AB (Series F)', 'Tiger Global Management (Series G)', 'Tiger Global Management (Series H)', 'Kinnevik AB (Series H)', 'Brand Capital (Debt Financing)']",Consumer Internet,"['$1.04B', 'Aug 2016']",$346M,+100%
+191,Africa Internet Group,NGA,"['AXA Group (Venture)', 'Goldman Sachs (Venture)', 'Orange (Venture)', 'CDC Group (Series E)']",Incubator,"['$1.04B', 'Jul 2016']",$469M,0%
+192,AppDirect,USA,"['iNovia Capital (Series A)', 'iNovia Capital (Series B)', 'Mithril Capital Management (Series C)', 'Mithril Capital Management (Series D)', 'JP Morgan Chase & Co. (Series E)']",Software,"['$1.04B', 'Oct 2015']",$245M,0%
+193,Avaloq,CHE,['Warburg Pincus (Private Equity)'],Financial Services,"['$1.03B', 'Mar 2017']",$350M,-
+194,Shazam,USA,"['Kleiner Perkins Caufield & Byers (Series C)', 'IVP (Institutional Venture Partners) (Series C)', 'América Móvil (Series D)', 'Buran Venture Capital (Series F)']",Consumer Internet,"['$1.03B', 'Feb 2015']",$125M,-
+195,UrWork,CHN,"['Gopher Asset Management (Series A)', 'Zhongrong International Trust (Series A)', 'Tianhong Asset Management (Series B)', 'Aikang Group (Round)']",Real Estate,"['$1.02B', 'Aug 2017']",$165M,-
+196,DataXu,USA,"['Flybridge Capital Partners (Series A)', 'Atlas Venture (Series A)', 'Thomvest Ventures (Series D)', 'Sky (Series F)']",Analytics,"['$1.01B*', 'Jan 2016']",$65M,-
+197,AVAST Software,CZE,"['Summit Partners (Private Equity)', 'CVC Capital Partners (Private Equity)']",Software,"['$1B', 'Feb 2014']",$100M,-
+198,ForeScout Technologies,USA,"['BCS Growth Fund (Series A)', 'Pitango Venture Capital (Series B)', 'Accel Partners (Series B)', 'Meritech Capital Partners (Series C)', 'Amadeus Capital Partners (Series E)', 'Wellington Management (Series G)']",Security,"['$1B', 'Jan 2016']",$125M,-
+199,Deliveroo,GBR,"['Index Ventures (Series A)', 'Accel Partners (Series B)', 'Index Ventures (Series C)', 'Greenoaks Capital (Series C)', 'DST Global (Series D)', 'Greenoaks Capital (Series D)', 'General Catalyst (Series E)', 'DST Global (Series E)', 'Bridgepoint (Series E)', 'T. Rowe Price (Series F)', 'Fidelity Management and Research Company (Series F)']",Food and Beverage,"['$1B*', 'Sep 2017']",$475M,+100%
+200,"Procore Technologies, Inc",USA,"['Great Pacific Capital (Series B)', 'Bessemer Venture Partners (Series D)', 'ICONIQ Capital (Series E)', 'ICONIQ Capital (Series F)', 'ICONIQ Capital (Series G)']",Software,"['$1B', 'Dec 2016']",$179M,-
+201,QuEST Global Services,SGP,"['The Carlyle Group (Venture)', 'Warburg Pincus (Private Equity)']",Manufacturing,"['$1B', 'Dec 2010']",$431M,-
+202,Datto,USA,"['General Catalyst (Series A)', 'TCV (Series B)']",Security,"['$1B', 'Nov 2015']",$100M,+700%
+203,Adaptive Biotechnologies,USA,"['Viking Global Investors (Series C)', 'Viking Global Investors (Series D)', 'Matrix Capital Management (Series F)']",Healthcare,"['$1B*', 'May 2015']",$410M,-
+204,Kendra Scott,USA,"['Norwest Venture Partners - NVP (Venture)', 'Berkshire Partners (Private Equity)']",Fashion,"['$1B', 'Dec 2016']",-,-
+205,Zoom,USA,"['Horizons Ventures (Series B)', 'Emergence Capital Partners (Series C)', 'Sequoia Capital (Series D)']",Enterprise,"['$1B', 'Jan 2017']",$146M,-
+206,ironSource,ISR,"['Saban Capital Group (Venture)', 'Access Industries (Venture)']",Software,"['$1B', 'Feb 2015']",$105M,0%
+207,Zhihu,CHN,"['SAIF Partners (Series B)', 'Tencent Holdings (Series C)']",Consumer Internet,"['$1B', 'Jan 2017']",$185M,-
+208,Home24,DEU,"['Rocket Internet (Venture)', 'Baillie Gifford (Venture)', 'Baillie Gifford (Venture)']",E-commerce,"['$1B', 'Mar 2016']",$173M,0%
+209,Tokopedia,IDN,"['Indonusa Dwitama (Seed)', 'East Ventures (Series A)', 'CyberAgent Ventures (Series B)', 'Beenos Partners (Series C)', 'Softbank Ventures Korea (Series D)', 'SoftBank Telecom Corp (Series E)', 'Alibaba (Series F)']",E-Commerce,"['$1B*', 'Aug 2017']",$1.35B,-
+210,Ubtech,CHN,"['Qiming Venture Partners (Series A)', 'CDH Investments (Series B)']",Hardware,"['$1B', 'Jul 2016']",$120M,-
+211,Zhangyue Technology,CHN,"['Guojin Dingxing Investment (Series A)', 'Alpha Animation (Series A)']",Entertainment,"['$1B*', 'Jan 2016']",$100M,-
+212,Dt Dream,Enterprise,[],Enterprise,"['$1B', 'Jun 2017']",$185M,-
+213,Docker,USA,"['Greylock Partners (Series B)', 'Sequoia Capital (Series C)', 'Insight Venture Partners (Series D)']",Software,"['$1B', 'Aug 2017']",$162M,+100%
+214,Xiaohongshu,CHN,"['ZhenFund (Series A)', 'GGV Capital (Series B)', 'Tencent Holdings (Series C)']",E-Commerce,"['$1B*', 'Mar 2016']",$117.5M,-
+215,Age of Learning,USA,['ICONIQ Capital (Venture)'],Education,"['$1B', 'May 2016']",$150M,-
+216,58 Daojia,Consumer Internet,[],Consumer Internet,"['$1B', 'Oct 2015']",$300M,-
+217,APUS Group,CHN,"['Qiming Venture Partners (Series B)', 'Susquehanna Growth Equity (Series B)', 'Chengwei Capital (Series B)']",Software,"['$1B', 'Jan 2015']",$116M,-
+218,Yunmanman,CHN,"['Lightspeed (Series A)', 'Sequoia Capital (Series B)', 'YF Capital (Yunfeng Capital) (Series C)', 'YF Capital (Yunfeng Capital) (Series C)']",Transportation,"['$1B*', 'Dec 2016']",$165M,-
+219,Carbon,USA,"['Sequoia Capital (Series A)', 'GV (Series C)', 'General Electric (GE) (Series C)', 'BMW Group (Series C)']",Manufacturing,"['$1B', 'Sep 2016']",$222.22M,-
+220,View,USA,"['NanoDimension (Series C)', 'DBL Investors (Series C)', 'NanoDimension (Series D)', 'Reinet Investments S.C.A. (Series D)', 'Corning Incorporated (Series E)', 'Madrone Capital Partners (Series E)', 'BlackRock (Series G)', 'TIAA (Series G)']",Nanotechnology,"['$1B*', 'Jun 2017']",$645M,-
+221,Yidao Yongche,CHN,"['DCM Ventures (Series C)', 'Ctrip (Series C)', 'GIC (Series C)']",Consumer Internet,"['$1B', 'Oct 2015']",$790M,-
+222,Cheyipai,CHN,"['Sequoia Capital (Series C)', 'Renren Inc. (Series D)', 'BAIC Group (Round)']",Transportation,"['$1B*', 'Sep 2016']",$230M,-
+223,Yitu Technology,CHN,"['YF Capital (Yunfeng Capital) (Series B)', 'Hillhouse Capital Group (Series C)']",Artificial Intelligence,"['$1B', 'May 2017']",$55M,-
+224,BeiBei,CHN,"['Mizhe.com (Series A)', 'New Horizon Capital (Series C)', 'Capital Today (Series C)', 'New Horizon Capital (Series D)', 'Northern Light Venture Capital (Series D)']",E-commerce,"['$1B', 'Jun 2016']",$224M,0%
+225,Futu Securities,HKG,"['Tencent Holdings (Series A)', 'Tencent Holdings (Series B)', 'Tencent Holdings (Series C)']",Financial Services,"['$1B', 'Jun 2017']",$145.5M,-
+226,Traveloka,IDN,"['East Ventures (Seed)', 'Global Founders Capital (Series A)', 'Expedia (Round)']",Travel,"['$1B*', 'Jul 2017']",$500M,-
+227,Womai,CHN,"['SAIF Partners (Series A)', 'IDG Capital Partners (Series B)', 'Taikang Life Insurance (Series C)']",E-Commerce,"['$1B', 'Oct 2015']",$330M,-
+228,Udacity,USA,"['CRV (Series A)', 'Andreessen Horowitz (Series B)', 'Bertelsmann (Series D)']",Education,"['$1B', 'Nov 2015']",$160M,-
+229,iCarbonX,CHN,"['Tencent Holdings (Series A)', 'China Bridge Capital (Series A)']",Healthcare,"['$1B', 'Jul 2016']",$200M,-
+230,Iwjw,CHN,"['Morningside Group (Series A)', 'Banyan Capital (Series B)', 'GGV Capital (Series C)', 'Morningside Group (Series D)', 'GGV Capital (Series D)', 'Temasek Holdings (Series E)']",Real Estate,"['$1B', 'Nov 2015']",$305M,-
+231,Jiuxian.com,CHN,"['Sequoia Capital (Series B)', 'Oriental Fortune Capital (Series B)', 'Sequoia Capital (Series E)']",E-Commerce,"['$1B', 'Jul 2015']",$250M,+400%
+232,Kik,CAN,"['Foundation Capital (Series B)', 'Valiant Capital Partners (Series C)', 'Tencent Holdings (Series D)']",Consumer Internet,"['$1B', 'Aug 2017']",$121M,-
+233,Mercari,JPN,"['UNITED, Inc. (Series A)', 'World Innovation Lab (WiL) (Series C)']",E-Commerce,"['$1B', 'Mar 2016']",$116M,-
+234,FangDD.com,CHN,"['CDH Investments (Series A)', 'FountainVest Partners (Series C)']",Real Estate,"['$1B*', 'Oct 2015']",$313M,-
+235,Glassdoor,USA,"['Benchmark (Series B)', 'Sutter Hill Ventures (Series B)', 'Battery Ventures (Series C)', 'DAG Ventures (Series D)', 'Tiger Global Management (Series E)', 'Tiger Global Management (Series F)', 'CapitalG (Series F)', 'T. Rowe Price (Series H)']",Consumer Internet,"['$1B', 'Jun 2016']",$202M,0%
+236,Hujiang,CHN,"['Baidu (Series C)', 'China Minsheng Investment Group (Series D)']",Education,"['$1B', 'Oct 2015']",$187M,-
+237,Evernote,USA,"['DoCoMo Capital (Series A)', 'Sequoia Capital (Series B)', 'Morgenthaler Ventures (Series B)', 'Sequoia Capital (Series C)', 'Sequoia Capital (Venture)', 'CBC Capital (Series D)', 'Meritech Capital Partners (Series D)', 'Nikkei (Series E)', 'Kortschak Investments, L.P. (Series E)']",Software,"['$1B', 'Nov 2014']",$290M,-
+238,Improbable,GBR,"['Andreessen Horowitz (Series A)', 'Horizons Ventures (Series A)', 'SoftBank (Series B)']",Entertainment,"['$1B', 'May 2017']",$525M,-
+239,Katerra,USA,['Greenoaks Capital (Series C)'],Construction,"['$1B', 'Apr 2017']",$205M,-
+240,Rocket Lab,USA,['Data Collective (Series D)'],Aerospace and Defense,"['$1B', 'Mar 2017']",$148M,-
+241,OfferUp,USA,"['Jackson Square Ventures (Series A)', 'T. Rowe Price (Series C)', 'Warburg Pincus (Series C)']",Consumer Internet,"['$1B', 'Nov 2016']",$211M,-
+242,Panshi,CHN,"['NewMargin Ventures (Series A)', 'NewMargin Ventures (Series B)']",Advertising,"['$1B', 'May 2015']",$220M,-
+243,Rong360,CHN,"['Lightspeed Venture Partners (Series A)', 'Sequoia Capital (Series B)', 'Pavillion Capital (Series C)', 'YF Capital (Yunfeng Capital) (Series D)', 'Sailing Capital (Series D)']",Financial Services,"['$1B', 'Oct 2015']",$258M,-
+244,Ninebot,CHN,"['Sequoia Capital (Venture)', 'Xiaomi (Venture)', 'Intel Capital (Venture)', 'Intel Capital (Venture)']",Transportation,"['$1B*', 'Jan 2016']",$80M,-
+245,Guazi.com,CHN,['Sequoia Capital (Series B)'],Transportation,"['$1B', 'Jun 2017']",$650M,-
+246,Symphony,USA,['BNP Paribas (Venture)'],Software,"['$1B', 'May 2017']",$229M,0%
+247,Huochebang,CHN,"['Zhongding Power (Series A)', 'Tencent Holdings (Series A)', 'All-Stars Investment (Series B)', 'International Finance Corporation (Series B)', 'Baidu Capital (Series B)', 'All-Stars Investment (Series B)', 'All-Stars Investment (Series B)']",Transportation,"['$1B', 'Aug 2017']",$327M,-
+248,Fanli,CHN,"['SIG China (Series B)', 'Rakuten (Series C)']",E-Commerce,"['$1B', 'Apr 2015']",$30M,-
+249,iTutorGroup,TWN,"['Qiming Venture Partners (Series A)', 'Alibaba Capital Partners (Series B)']",Education,"['$1B', 'Nov 2015']",$315M,-
+250,Lookout,USA,"['Khosla Ventures (Series A)', 'Accel Partners (Series B)', 'Index Ventures (Series C)', 'Andreessen Horowitz (Series D)', 'Deutsche Telekom (Series E)', 'T. Rowe Price (Series F)']",Software,"['$1B', 'Aug 2014']",$282M,-
+251,U51.com,CHN,"['GGV Capital (Series B)', 'Tiantu Capital (Series C)', 'Xinhu Zhongbao (Series C)', 'Harvest Capital (Series C)', 'Yintai Group (Series C)']",Financial Services,"['$1B', 'Oct 2016']",$360M,-
+252,Compass,USA,"['IVP (Institutional Venture Partners) (Series C)', 'Wellington Management (Series D)']",Real Estate,"['$1B', 'Aug 2016']",$210M,0%
+253,Mofang Gongyu,CHN,"['Warburg Pincus (Series B)', 'AVIC Trust (Series C)']",Real Estate,"['$1B', 'Apr 2016']",$500M,-
+254,Douyu TV,CHN,"['Sequoia Capital (Series A)', 'Sequoia Capital (Series B)', 'Tencent Holdings (Series B)', 'Phoenix Capital (Series C)', 'Tencent Holdings (Series C)']",Entertainment,"['$1B', 'Aug 2016']",$349M,-
+255,SMS Assist,USA,"['Pritzker Group Venture Capital (Series A)', 'Pritzker Group Venture Capital (Series B)', 'Insight Venture Partners (Series C)', 'Goldman Sachs (Series D)']",Enterprise,"['$1B', 'Jun 2016']",$255M,-
+256,Funding Circle,GBR,"['Index Ventures (Series A)', 'Index Ventures (Series B)', 'Accel Partners (Series C)', 'Index Ventures (Series D)', 'Temasek Holdings (Series E)', 'DST Global (Series E)', 'BlackRock (Series E)', 'British Business Bank (Debt Financing)', 'Accel Partners (Series F)']",Financial Services,"['$1B', 'Jan 2017']",$375M,-
+257,TechStyle Fashion Group,USA,"['Matrix Partners (Series A)', 'Rho Capital Partners (Series B)', 'Shining Capital (Series C)', 'Shining Capital (Series C)', 'Passport Capital (Series D)']",E-commerce,"['$1B', 'Aug 2015']",$254M,-
+258,FXiaoKe,CHN,"['IDG Capital Partners (Series A)', 'Northern Light Venture Capital (Series B)', 'DCM Ventures (Series C)', 'Northern Light Venture Capital (Series D)', 'Northern Light Venture Capital (Series E)', 'Hillhouse Capital Group (Series E)', 'Beijing Hualian Group (Series E)', 'LI Yue (Series E)']",Software,"['$1B*', 'Jul 2016']",$233M,-
+259,Kabbage,USA,"['BlueRun Ventures (Series A)', 'Mohr Davidow Ventures (Series B)', 'Thomvest Ventures (Series C)', 'Victory Park Capital (Debt Financing)', 'Guggenheim Securities (Debt Financing)', 'SoftBank Capital (Series D)', 'Reverence Capital Partners (Series E)', 'SoftBank (Series F)']",Financial Services,"['$1B', 'Aug 2017']",$489M,-
+260,Lamabang,CHN,"['Matrix Partners China (Series A)', 'Greenwoods Asset Management (Series B)', 'Vipshop (Series C)', 'Suning Commerce Group (Series D)']",Consumer Internet,"['$1B', 'Feb 2017']",$130M,-
+261,Yuanfudao,CHN,"['Matrix Partners China (Series B)', 'IDG Capital Partners (Series B)', 'China Media Capital (CMC) (Series D)', 'Tencent Holdings (Series E)', 'Warburg Pincus (Private Equity)']",Education,"['$1B*', 'May 2017']",$244M,-
+262,Liepin,CHN,"['Matrix Partners China (Series A)', 'Matrix Partners China (Series B)', 'Matrix Partners (Series C)', 'Warburg Pincus (Series C)', 'China Mobile Innovation Industry Fund (Series D)']",Consumer Internet,"['$1B*', 'Jun 2016']",$170M,-
+263,Mia.com,CHN,"['Sequoia Capital (Series B)', 'H Capital (Series C)', 'Baidu (Series D)']",E-Commerce,"['$1B', 'Oct 2016']",$230M,-
+264,Mogujie,CHN,"['HOPU Investment Management Company (Series D)', 'Ping An Ventures (Series E)']",E-commerce,"['$1B', 'Nov 2015']",$212M,0%
+265,Desktop Metal,USA,"['GE Ventures (Series B)', 'Saudi Aramco Energy Ventures (Series B)', 'GV (Series C)', 'New Enterprise Associates (Series D)']",Manufacturing,"['$1B', 'Jul 2017']",$212M,+100%
+266,CrowdStrike,USA,"['Accel Partners (Series A)', 'Accel Partners (Series B)', 'CapitalG (Series C)', 'Accel Partners (Series D)']",Security,"['$1B', 'May 2017']",$256M,-
